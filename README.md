@@ -78,7 +78,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or need further assistance, feel free to reach out:
 
 - Email: (Engineersyednoor@gmail.com)
-- GitHub: [yourusername](https://github.com/Syed-Noor)
+- GitHub: (https://github.com/Syed-Noor)
 
 ---
 
